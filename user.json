@@ -1,1 +1,11 @@
-https://raw.githubusercontent.com/1210505003/user.json/main/user.json
+[
+  {
+    "Username": "test",
+    "Password": "123"
+  },
+  {
+    "Username": "exampleUser",
+    "Password": "examplePassword"
+  }
+]
+
